@@ -17,11 +17,11 @@ youth（软工2101 霍旭洋）
 > >
 > > 2. 学习经历 
 > >         进入博客，按步骤安装了git，一个字母一个字母的在黑框中敲入代码，如约等来电脑的回馈，这可能就是程序员小白的乐趣吧。
-> >    ![](C:\Users\86185\Desktop\gitskills\QQ图片20211007175535.jpg)
+> >    ![alt](http://m.qpic.cn/psc?/V13cItKP0CiJZ5/45NBuzDIW489QBoVep5mcX7ROZHpb1UXDwyqv1pBaSikwj.EFe5xM44bHOmQa1f*wqDN8TvYeLQShSSXmsUFD32zWrVVU7KRweKgDrOo9TY!/b&bo=rgjoAwAAAAABF30!&rf=viewer_4)
 > >        随之相同代码一遍一遍的敲入，渐渐的开始了解git的工作原理，笔记小本本当然也不能落下。开始了反复的测试和练习，建立自己的远程库......期间有敲出期望的欣喜，也有明明代码和老师一样，输出去不同的痛苦，随后就是各种百度查找原因，更多的是自己后知后觉手残敲出的**自我表扬**。乐趣，也慢慢从中蔓延~  
 > >
 > >   ##                                 ***真的是有笔记的！！***
-> >    ![](C:\Users\86185\Desktop\gitskills\QQ图片20211007181119.png)
+> >    ![](http://m.qpic.cn/psc?/V13cItKP0CiJZ5/45NBuzDIW489QBoVep5mcX7ROZHpb1UXDwyqv1pBaShZla8kG.LLvdiQTn3CXc06Obbq7YqDYUfdwUhV8KOl9fdym5d4gKizwGlsvlMuSck!/b&bo=dQO0AgAAAAADF*I!&rf=viewer_4)
 > > 3. git的实践
 > >         处于自学阶段，实践更多的偏向于在自己本机和远程库的add和clone，一次次的push之中，换取舍友羡慕的表情和逐渐渴望加入程序部的信心和决心~~暴露野心了~~ 。
 
